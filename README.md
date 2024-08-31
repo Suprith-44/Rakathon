@@ -1,5 +1,5 @@
 # RagAndUnlearn.ai
-
+![Architecture](p5.jpeg)
 
 
 Problem Statement:
